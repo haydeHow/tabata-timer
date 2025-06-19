@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/hayde/Desktop/timer/build",
-  "command": "/usr/bin/clang   -g -arch arm64 -o CMakeFiles/timer.dir/main.c.o -c /Users/hayde/Desktop/timer/main.c",
-  "file": "/Users/hayde/Desktop/timer/main.c",
-  "output": "CMakeFiles/timer.dir/main.c.o"
-}
-]
